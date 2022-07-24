@@ -58,4 +58,5 @@ Este projeto está sob a licença MIT. Veja a [licença](https://github.com/tiqu
 ---
 
 Douglas Moraes
+
 [<img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">](https://www.linkedin.com/in/douglasam)
