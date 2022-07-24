@@ -10,7 +10,7 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tiquinhonew/algalog-api?color=blueviolet">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tiquinhonew/algalog-api?color=orange">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/tiquinhonew/algalog-api">
-  <img alt="GitHub" src="https://img.shields.io/github/license/tiquinhonew/algalog-api">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/tiquinhonew/algalog-api">
 </p>
 <p align="center">
   <a href="#link-links">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
