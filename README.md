@@ -21,6 +21,8 @@
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/441bcacf9951445aa9247e79828528bf)](https://app.codacy.com/gh/tiquinhonew/algalog-api?utm_source=github.com&utm_medium=referral&utm_content=tiquinhonew/algalog-api&utm_campaign=Badge_Grade_Settings)
+
 API desenvolvida na Semana Spring Rest (AlgaWorks)
 
 ### :link: Links
